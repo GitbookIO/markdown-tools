@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "markdown-tools": "./bin/markdown-tools.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/GitbookIO/markdown-tools.git"
