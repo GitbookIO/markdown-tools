@@ -1,0 +1,34 @@
+{
+  "name": "markdown-tools",
+  "version": "0.0.0",
+  "description": "A small CLI interface to kramed with lots of useful markdown tools (like go's \"go fmt\", lexing, rendering ...) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GitbookIO/markdown-tools.git"
+  },
+  "keywords": [
+    "kramed",
+    "cli",
+    "markdown",
+    "tools",
+    "fmt",
+    "lex",
+    "lexer"
+  ],
+  "author": "Aaron O'Mullan <aaron.omullan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitbookIO/markdown-tools/issues"
+  },
+  "homepage": "https://github.com/GitbookIO/markdown-tools",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "kramed": "^0.4.5",
+    "kramed-markdown-renderer": "^0.1.1",
+    "lodash": "^3.0.1"
+  }
+}
