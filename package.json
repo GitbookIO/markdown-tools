@@ -1,6 +1,6 @@
 {
   "name": "markdown-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small CLI interface to kramed with lots of useful markdown tools (like go's \"go fmt\", lexing, rendering ...) ",
   "main": "index.js",
   "scripts": {
