@@ -7,7 +7,7 @@ A small CLI interface to kramed with lots of useful markdown tools (like go's "g
 npm install -g markdown-tools
 ```
 
-### Comamnds
+### Commands
 
 ```
 ❯ markdown-tools --help
